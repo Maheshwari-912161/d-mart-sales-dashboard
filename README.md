@@ -31,3 +31,16 @@ Enable Filters:
 Add Slicers for:
 Quarter: Derived from Order Date using DAX or Power BI's time intelligence.
 State: Dropdown slicer based on State column.
+
+Key Insights 
+Analyze Patterns:
+Identify the best-performing states based on total sales.
+Spot trends in profit over months.
+Assess which product categories and payment modes are most popular.
+
+Tools& Skills
+Power BI Desktop
+Dat Modelling and Relationships
+DAX Calculatiions
+Data Visualisation and Design
+Interactive slicers and Filters

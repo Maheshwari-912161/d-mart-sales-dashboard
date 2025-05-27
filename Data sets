@@ -1,4 +1,18 @@
 Data Sources
-Order.csv and Details.csvfiles 
-https://in.docworkspace.com/d/sICn2vbtH9Z7YwQY
-https://in.docworkspace.com/d/sIKb2vbtHlp_YwQY
+Order.csv 
+Includes:
+Order ID
+Order Date
+Customer Name
+State
+City
+Details.csvfiles from kaggle
+Includes:
+Order ID
+Amount
+Profit
+Quantity
+Category
+Sub-Category
+Payment Mode
+
